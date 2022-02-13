@@ -1,4 +1,4 @@
-public class VariableTypes{
+public class variableTypes{
 	
     static int a=1;//static variable
 	

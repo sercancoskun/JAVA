@@ -1,6 +1,4 @@
-package helloworld;
-
-public class HelloWorld {
+public class dataTypes {
 
     public static void main(String[] args) {
 
