@@ -92,3 +92,5 @@ int x6 = 0x5_2;
 // Invalid: cannot put underscores
 // at the end of a number
 int x7 = 0x52_;
+
+Source: Oracle (https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html)
