@@ -1,0 +1,5 @@
+display multiple items with + operator
+be careful with quotations marks
+identifiers
+class names vs variable names
+scope

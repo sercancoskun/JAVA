@@ -1,0 +1,9 @@
+get into:
+intro
+java keywords
+syntax
+comments (line, block, documentation comments [javadoc])
+type casting
+relationship among the system class, the out object, and the print methods
+common escape sequences (\n, \t, \b, \r, \\, \', \")
+indentation
