@@ -1,4 +1,4 @@
 # JAVA
 Java mini codes
 
-My notes from the readings and videos I watched
+Some notes from the readings I did and videos I watched
