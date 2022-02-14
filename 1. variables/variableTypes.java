@@ -2,7 +2,7 @@ public class variableTypes{
 	
     static int a=1;//static variable
 	
-    void method(){
+    void bmethod(){
 		
         int b=2;//local variable
 		
@@ -12,7 +12,7 @@ public class variableTypes{
         int c=5;//instance variable
 
         System.out.println(a);
-        //System.out.println(b);
+        //System.out.println(b); //does not work
         System.out.println(c);
     }
 	

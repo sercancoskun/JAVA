@@ -1,5 +1,9 @@
-display multiple items with + operator
-be careful with quotations marks
-identifiers
-class names vs variable names
-scope
+get into:
+intro - done
+java keywords - done
+syntax - done
+comments (line, block, documentation comments [javadoc]) - partially done
+type casting
+relationship among the system class, the out object, and the print methods - done
+common escape sequences (\n, \t, \b, \r, \\, \', \") - done
+indentation
