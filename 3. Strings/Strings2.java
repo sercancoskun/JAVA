@@ -1,4 +1,3 @@
-
 public class Strings2{
 
     public static void main(String args[]){
@@ -41,7 +40,7 @@ public class Strings2{
 		System.out.println(message.substring(5,10));
 		System.out.println("----------");
 
-		//spit each word and print/list them with a for loop
+		//split each word and print/list them with a for loop
 		for (String word : message.split(" ")){
 			System.out.println(word);
 		}

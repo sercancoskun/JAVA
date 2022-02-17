@@ -1,0 +1,4 @@
+identifiers - done
+literals - done
+class names vs variable names - done
+scope - done
