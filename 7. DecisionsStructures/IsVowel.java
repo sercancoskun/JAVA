@@ -1,3 +1,4 @@
+import java.util.Locale;
 import java.util.Scanner;
 
 public class IsVowel{
@@ -7,7 +8,7 @@ public class IsVowel{
 		Scanner keyboard = new Scanner(System.in);
 		System.out.println("This program checks if a letter is vowel or consonant.");
 		System.out.println("Type a letter: ");
-		String letter = keyboard.nextLine();
+		String letter = keyboard.nextLine().toLowerCase(Locale.ROOT);
 		
 		String vowel = "aeiou";
 		String consonant = "bcdfghjklmnpqrstvwxyz";
