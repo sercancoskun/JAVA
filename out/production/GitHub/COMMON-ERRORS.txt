@@ -1,0 +1,22 @@
+- Mismatched braces, quotation marks, or parentheses
+- Misspelling key words
+- Using capital letters in key words
+- Using a keyword as a variable name
+- Using inconsistent spelling of variable names
+- Using inconsistent case of letters in variable names
+- Inserting a space in a variable name
+-- Assigning different values to the same variable
+- Forgetting the semicolon at the end of a statement
+- Asserting a double literal to a float variable
+- Using commas or other currency symbols in numeric literals
+- Unintentionally performing integer division
+- Forgetting to group parts of a mathematical expression
+- Inserting a space in a combined assignment operator
+- Using a variable to receive the result of a calculation
+when the variable's data type is incompatible with
+the data type of the result
+- Incorrectly terminating a multi-line comment or a documentation comment
+- Forgetting to use correct import statement in a program that uses the
+Scanner or the JOptionPane class
+- When using the input dialog to read numeric input, not converting the
+ShowInputDialog method's return value to a number
