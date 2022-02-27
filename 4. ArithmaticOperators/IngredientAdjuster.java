@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//This program demonstrates a nested if statement
+
 public class IngredientAdjuster{
 
 	public static void main (String[] args){
